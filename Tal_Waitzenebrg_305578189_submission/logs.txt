@@ -1,0 +1,593 @@
+Data Shape: (86,378)
+Data Balancing:
+Label 1 count: 40, Label 0 count: 46
+##########################################################
+XGBoost Model e3293d41-59eb-49da-a370-057ac335af32 begins running at: 2019-06-22 16:26:24
+##########################################################
+>>>>>>>>>>>>>>>>>>>> Creating features selection subsets <<<<<<<<<<<<<<<<<<<
+--------------------------------------------
+sfs with top selected 25 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+sbs with top selected 25 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+fisher_score with top selected 25 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+Laplacian_score with top selected 25 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+SPEC with top selected 25 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+f_score with top selected 25 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+sfs with top selected 26 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+sbs with top selected 26 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+fisher_score with top selected 26 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+Laplacian_score with top selected 26 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+SPEC with top selected 26 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+f_score with top selected 26 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+sfs with top selected 27 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+sbs with top selected 27 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+fisher_score with top selected 27 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+Laplacian_score with top selected 27 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+SPEC with top selected 27 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+f_score with top selected 27 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+sfs with top selected 28 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+sbs with top selected 28 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+fisher_score with top selected 28 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+Laplacian_score with top selected 28 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+SPEC with top selected 28 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+f_score with top selected 28 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+sfs with top selected 29 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+sbs with top selected 29 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+fisher_score with top selected 29 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+Laplacian_score with top selected 29 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+SPEC with top selected 29 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+f_score with top selected 29 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+sfs with top selected 30 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+sbs with top selected 30 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+fisher_score with top selected 30 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+Laplacian_score with top selected 30 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+SPEC with top selected 30 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+f_score with top selected 30 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+sfs with top selected 31 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+sbs with top selected 31 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+fisher_score with top selected 31 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+Laplacian_score with top selected 31 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+SPEC with top selected 31 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+f_score with top selected 31 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+sfs with top selected 32 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+sbs with top selected 32 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+fisher_score with top selected 32 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+Laplacian_score with top selected 32 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+SPEC with top selected 32 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+f_score with top selected 32 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+sfs with top selected 33 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+sbs with top selected 33 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+fisher_score with top selected 33 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+Laplacian_score with top selected 33 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+SPEC with top selected 33 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+f_score with top selected 33 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+sfs with top selected 34 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+sbs with top selected 34 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+fisher_score with top selected 34 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+Laplacian_score with top selected 34 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+SPEC with top selected 34 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+f_score with top selected 34 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+sfs with top selected 35 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+sbs with top selected 35 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+fisher_score with top selected 35 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+Laplacian_score with top selected 35 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+SPEC with top selected 35 featurs
+running...
+done
+--------------------------------------------
+--------------------------------------------
+f_score with top selected 35 featurs
+running...
+done
+--------------------------------------------
+>>>>>>>>>>>>>>>>>>>> Start Train <<<<<<<<<<<<<<<<<<<
+Iteration number: 1, seed 32
+--------------------------------------------
+Selected features: Index(['FNC40', 'FNC88', 'FNC45', 'FNC285', 'FNC71', 'FNC41', 'FNC43',
+       'FNC290', 'FNC42', 'FNC337', 'FNC279', 'FNC170', 'FNC190', 'FNC185',
+       'FNC243', 'FNC62', 'FNC63', 'FNC200', 'FNC333', 'FNC211', 'FNC353',
+       'FNC64', 'FNC328', 'FNC171', 'FNC293', 'FNC61', 'FNC78', 'FNC33',
+       'FNC220', 'FNC48', 'FNC295', 'FNC226', 'FNC37', 'FNC244', 'FNC183'],
+      dtype='object')
+Feature Selection methods scores:
+     sfs auc score: 0.73
+     sbs auc score: 0.67
+     fisher_score auc score: 0.82
+     Laplacian_score auc score: 0.59
+     SPEC auc score: 0.59
+     f_score auc score: 0.82
+Best feature selection method: fisher_score
+Number of features: 35
+Fitting XGBoost model
+Done fitting
+Auc Best Test Score: 0.78
+--------------------------------------------
+Iteration number: 2, seed 41
+--------------------------------------------
+Selected features: Index(['FNC42', 'FNC337', 'FNC279', 'FNC170', 'FNC190', 'FNC185', 'FNC243',
+       'FNC62', 'FNC63', 'FNC200', 'FNC333', 'FNC211', 'FNC353', 'FNC64',
+       'FNC328', 'FNC171', 'FNC293', 'FNC61', 'FNC78', 'FNC33', 'FNC220',
+       'FNC48', 'FNC295', 'FNC226', 'FNC37', 'FNC244', 'FNC183'],
+      dtype='object')
+Feature Selection methods scores:
+     sfs auc score: 0.74
+     sbs auc score: 0.77
+     fisher_score auc score: 0.82
+     Laplacian_score auc score: 0.62
+     SPEC auc score: 0.62
+     f_score auc score: 0.82
+Best feature selection method: fisher_score
+Number of features: 27
+Fitting XGBoost model
+Done fitting
+Auc Best Test Score: 0.66
+--------------------------------------------
+Iteration number: 3, seed 45
+--------------------------------------------
+Selected features: Index(['FNC337', 'FNC279', 'FNC170', 'FNC190', 'FNC185', 'FNC243', 'FNC62',
+       'FNC63', 'FNC200', 'FNC333', 'FNC211', 'FNC353', 'FNC64', 'FNC328',
+       'FNC171', 'FNC293', 'FNC61', 'FNC78', 'FNC33', 'FNC220', 'FNC48',
+       'FNC295', 'FNC226', 'FNC37', 'FNC244', 'FNC183'],
+      dtype='object')
+Feature Selection methods scores:
+     sfs auc score: 0.72
+     sbs auc score: 0.78
+     fisher_score auc score: 0.76
+     Laplacian_score auc score: 0.66
+     SPEC auc score: 0.66
+     f_score auc score: 0.76
+Best feature selection method: fisher_score
+Number of features: 26
+Fitting XGBoost model
+Done fitting
+Auc Best Test Score: 0.79
+--------------------------------------------
+Iteration number: 4, seed 52
+--------------------------------------------
+Selected features: Index(['FNC285', 'FNC71', 'FNC41', 'FNC43', 'FNC290', 'FNC42', 'FNC337',
+       'FNC279', 'FNC170', 'FNC190', 'FNC185', 'FNC243', 'FNC62', 'FNC63',
+       'FNC200', 'FNC333', 'FNC211', 'FNC353', 'FNC64', 'FNC328', 'FNC171',
+       'FNC293', 'FNC61', 'FNC78', 'FNC33', 'FNC220', 'FNC48', 'FNC295',
+       'FNC226', 'FNC37', 'FNC244', 'FNC183'],
+      dtype='object')
+Feature Selection methods scores:
+     sfs auc score: 0.63
+     sbs auc score: 0.71
+     fisher_score auc score: 0.82
+     Laplacian_score auc score: 0.63
+     SPEC auc score: 0.63
+     f_score auc score: 0.82
+Best feature selection method: fisher_score
+Number of features: 32
+Fitting XGBoost model
+Done fitting
+Auc Best Test Score: 0.84
+--------------------------------------------
+Iteration number: 5, seed 65
+--------------------------------------------
+Selected features: Index(['FNC42', 'FNC337', 'FNC279', 'FNC170', 'FNC190', 'FNC185', 'FNC243',
+       'FNC62', 'FNC63', 'FNC200', 'FNC333', 'FNC211', 'FNC353', 'FNC64',
+       'FNC328', 'FNC171', 'FNC293', 'FNC61', 'FNC78', 'FNC33', 'FNC220',
+       'FNC48', 'FNC295', 'FNC226', 'FNC37', 'FNC244', 'FNC183'],
+      dtype='object')
+Feature Selection methods scores:
+     sfs auc score: 0.67
+     sbs auc score: 0.72
+     fisher_score auc score: 0.82
+     Laplacian_score auc score: 0.61
+     SPEC auc score: 0.61
+     f_score auc score: 0.82
+Best feature selection method: fisher_score
+Number of features: 27
+Fitting XGBoost model
+Done fitting
+Auc Best Test Score: 0.70
+--------------------------------------------
+Iteration number: 6, seed 72
+--------------------------------------------
+Selected features: Index(['FNC45', 'FNC285', 'FNC71', 'FNC41', 'FNC43', 'FNC290', 'FNC42',
+       'FNC337', 'FNC279', 'FNC170', 'FNC190', 'FNC185', 'FNC243', 'FNC62',
+       'FNC63', 'FNC200', 'FNC333', 'FNC211', 'FNC353', 'FNC64', 'FNC328',
+       'FNC171', 'FNC293', 'FNC61', 'FNC78', 'FNC33', 'FNC220', 'FNC48',
+       'FNC295', 'FNC226', 'FNC37', 'FNC244', 'FNC183'],
+      dtype='object')
+Feature Selection methods scores:
+     sfs auc score: 0.73
+     sbs auc score: 0.71
+     fisher_score auc score: 0.78
+     Laplacian_score auc score: 0.66
+     SPEC auc score: 0.66
+     f_score auc score: 0.78
+Best feature selection method: fisher_score
+Number of features: 33
+Fitting XGBoost model
+Done fitting
+Auc Best Test Score: 0.78
+--------------------------------------------
+Iteration number: 7, seed 96
+--------------------------------------------
+Selected features: Index(['FNC337', 'FNC279', 'FNC170', 'FNC190', 'FNC185', 'FNC243', 'FNC62',
+       'FNC63', 'FNC200', 'FNC333', 'FNC211', 'FNC353', 'FNC64', 'FNC328',
+       'FNC171', 'FNC293', 'FNC61', 'FNC78', 'FNC33', 'FNC220', 'FNC48',
+       'FNC295', 'FNC226', 'FNC37', 'FNC244', 'FNC183'],
+      dtype='object')
+Feature Selection methods scores:
+     sfs auc score: 0.69
+     sbs auc score: 0.68
+     fisher_score auc score: 0.78
+     Laplacian_score auc score: 0.45
+     SPEC auc score: 0.45
+     f_score auc score: 0.78
+Best feature selection method: fisher_score
+Number of features: 26
+Fitting XGBoost model
+Done fitting
+Auc Best Test Score: 0.94
+--------------------------------------------
+Iteration number: 8, seed 97
+--------------------------------------------
+Selected features: Index(['FNC279', 'FNC170', 'FNC190', 'FNC185', 'FNC243', 'FNC62', 'FNC63',
+       'FNC200', 'FNC333', 'FNC211', 'FNC353', 'FNC64', 'FNC328', 'FNC171',
+       'FNC293', 'FNC61', 'FNC78', 'FNC33', 'FNC220', 'FNC48', 'FNC295',
+       'FNC226', 'FNC37', 'FNC244', 'FNC183'],
+      dtype='object')
+Feature Selection methods scores:
+     sfs auc score: 0.62
+     sbs auc score: 0.78
+     fisher_score auc score: 0.79
+     Laplacian_score auc score: 0.61
+     SPEC auc score: 0.61
+     f_score auc score: 0.79
+Best feature selection method: fisher_score
+Number of features: 25
+Fitting XGBoost model
+Done fitting
+Auc Best Test Score: 0.84
+--------------------------------------------
+Iteration number: 9, seed 112
+--------------------------------------------
+Selected features: Index(['FNC40', 'FNC88', 'FNC45', 'FNC285', 'FNC71', 'FNC41', 'FNC43',
+       'FNC290', 'FNC42', 'FNC337', 'FNC279', 'FNC170', 'FNC190', 'FNC185',
+       'FNC243', 'FNC62', 'FNC63', 'FNC200', 'FNC333', 'FNC211', 'FNC353',
+       'FNC64', 'FNC328', 'FNC171', 'FNC293', 'FNC61', 'FNC78', 'FNC33',
+       'FNC220', 'FNC48', 'FNC295', 'FNC226', 'FNC37', 'FNC244', 'FNC183'],
+      dtype='object')
+Feature Selection methods scores:
+     sfs auc score: 0.65
+     sbs auc score: 0.69
+     fisher_score auc score: 0.82
+     Laplacian_score auc score: 0.54
+     SPEC auc score: 0.54
+     f_score auc score: 0.82
+Best feature selection method: fisher_score
+Number of features: 35
+Fitting XGBoost model
+Done fitting
+Auc Best Test Score: 0.71
+--------------------------------------------
+Iteration number: 10, seed 114
+--------------------------------------------
+Selected features: Index(['FNC42', 'FNC337', 'FNC279', 'FNC170', 'FNC190', 'FNC185', 'FNC243',
+       'FNC62', 'FNC63', 'FNC200', 'FNC333', 'FNC211', 'FNC353', 'FNC64',
+       'FNC328', 'FNC171', 'FNC293', 'FNC61', 'FNC78', 'FNC33', 'FNC220',
+       'FNC48', 'FNC295', 'FNC226', 'FNC37', 'FNC244', 'FNC183'],
+      dtype='object')
+Feature Selection methods scores:
+     sfs auc score: 0.67
+     sbs auc score: 0.65
+     fisher_score auc score: 0.75
+     Laplacian_score auc score: 0.58
+     SPEC auc score: 0.58
+     f_score auc score: 0.75
+Best feature selection method: fisher_score
+Number of features: 27
+Fitting XGBoost model
+Done fitting
+Auc Best Test Score: 0.78
+--------------------------------------------
+Iteration number: 11, seed 128
+--------------------------------------------
+Selected features: Index(['FNC42', 'FNC337', 'FNC279', 'FNC170', 'FNC190', 'FNC185', 'FNC243',
+       'FNC62', 'FNC63', 'FNC200', 'FNC333', 'FNC211', 'FNC353', 'FNC64',
+       'FNC328', 'FNC171', 'FNC293', 'FNC61', 'FNC78', 'FNC33', 'FNC220',
+       'FNC48', 'FNC295', 'FNC226', 'FNC37', 'FNC244', 'FNC183'],
+      dtype='object')
+Feature Selection methods scores:
+     sfs auc score: 0.67
+     sbs auc score: 0.74
+     fisher_score auc score: 0.83
+     Laplacian_score auc score: 0.57
+     SPEC auc score: 0.57
+     f_score auc score: 0.83
+Best feature selection method: fisher_score
+Number of features: 27
+Fitting XGBoost model
+Done fitting
+Auc Best Test Score: 0.72
+--------------------------------------------
+Iteration number: 12, seed 142
+--------------------------------------------
+Selected features: Index(['FNC290', 'FNC42', 'FNC337', 'FNC279', 'FNC170', 'FNC190', 'FNC185',
+       'FNC243', 'FNC62', 'FNC63', 'FNC200', 'FNC333', 'FNC211', 'FNC353',
+       'FNC64', 'FNC328', 'FNC171', 'FNC293', 'FNC61', 'FNC78', 'FNC33',
+       'FNC220', 'FNC48', 'FNC295', 'FNC226', 'FNC37', 'FNC244', 'FNC183'],
+      dtype='object')
+Feature Selection methods scores:
+     sfs auc score: 0.75
+     sbs auc score: 0.72
+     fisher_score auc score: 0.85
+     Laplacian_score auc score: 0.66
+     SPEC auc score: 0.66
+     f_score auc score: 0.85
+Best feature selection method: fisher_score
+Number of features: 28
+Fitting XGBoost model
+Done fitting
+Auc Best Test Score: 0.82
+--------------------------------------------
+--------------------------------------- Model Summary Print ----------------------------------------------
+Model e3293d41-59eb-49da-a370-057ac335af32 started running at: 2019-06-22 16:26:24
+Mean test score 0.78
+STD test score 0.07
+Elapsed Time from the beginning: 10:39:12
+----------------------------------------------------------------------------------------------------------
+###################################################
+###################################################
+Final XGBoost Mean AUC Score: 0.78
+###################################################
+###################################################
